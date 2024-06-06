@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/madangbal/static/css/main.e6d35767.css",
+    "main.js": "/madangbal/static/js/main.fcfaaaa0.js",
+    "static/media/soonchunghyangunivlogo1.jpg": "/madangbal/static/media/soonchunghyangunivlogo1.5448638dc714e00c4956.jpg",
+    "static/media/arizonastateunivlogo.png": "/madangbal/static/media/arizonastateunivlogo.53a3e40a9e7bc77521c0.png",
+    "static/media/soonchunghyangunivlogo2.jpg": "/madangbal/static/media/soonchunghyangunivlogo2.c389c9dea5558d69b6e2.jpg",
+    "static/media/samsunglogo.jpg": "/madangbal/static/media/samsunglogo.01f90c681e1a9d136b13.jpg",
+    "static/media/slick.svg": "/madangbal/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/madangbal/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/madangbal/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/madangbal/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/madangbal/index.html",
+    "main.e6d35767.css.map": "/madangbal/static/css/main.e6d35767.css.map",
+    "main.fcfaaaa0.js.map": "/madangbal/static/js/main.fcfaaaa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6d35767.css",
+    "static/js/main.fcfaaaa0.js"
+  ]
+}
